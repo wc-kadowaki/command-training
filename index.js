@@ -5,3 +5,4 @@ const change = new Object();
 const map = new Map();
 const set = new Set();
 const string = new String();
+const hoge = "";
