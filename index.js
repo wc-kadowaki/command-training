@@ -6,4 +6,3 @@ const map = new Map();
 const set = new Set();
 const string = new String();
 const boolean = new Boolean();
-const number = new Number();
